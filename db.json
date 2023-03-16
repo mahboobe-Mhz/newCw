@@ -1,0 +1,16 @@
+{
+"doctors":[{"id":1,
+"name":"john",
+"Expertise":{"id":1,"name":"dentins" },
+"workTime":["saturday","sunday","friday"]
+},{"id":2,
+"name":"mohammad",
+"Expertise":{"id":2,"name":"frontEnd" },
+"workTime":["monday","sunday","friday"]
+}
+],
+
+"nobat":[
+  
+]
+}
